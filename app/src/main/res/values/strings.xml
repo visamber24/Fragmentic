@@ -7,4 +7,6 @@
     <string name="new_fragment">New Fragment</string>
     <string name="frag_1">frag 1</string>
     <string name="frag_2">frag 2</string>
+    <string name="first_fragment">first fragment</string>
+    <string name="coffee_is_good">coffee is good</string>
 </resources>

@@ -7,6 +7,7 @@
     <TextView
         android:layout_width="163dp"
         android:layout_height="wrap_content"
-        android:text="first fragment"
-        android:textSize="25sp" />
+        android:text="@string/first_fragment"
+        android:textSize="25sp"
+        android:contentDescription="@string/coffee_is_good"/>
 </LinearLayout>
